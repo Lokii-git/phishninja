@@ -1,6 +1,7 @@
 # PhishNinja
 
 **PhishNinja** is a powerful Python script designed to extract and filter data from phishing test results. Whether you're analyzing large datasets or simply looking to clean up your test results, PhishNinja helps you identify and isolate meaningful interactions, such as when a user clicks on a phishing link. It also filters out noise, such as interactions from known Microsoft IP addresses, ensuring you get the most relevant insights.
+![phishninja](https://github.com/user-attachments/assets/58c88ce5-015b-459b-ba15-cbb75992af23)
 
 ## Features
 
